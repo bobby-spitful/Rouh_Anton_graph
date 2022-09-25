@@ -1,0 +1,14 @@
+pour lancer le script python taper la commande suivante dans un terminal:
+    python3 graph_test.py
+(précédé du path si vous n'êtes pas dans le dossier du script)
+
+les options sont de lancement du script sont:
+  -h montre un message aves les options disponible
+  -nb_s nombre de sommets de votre graph
+  -nb_a nombre d'arêtes de votre graph
+  -p arêtes pondéré -> 1 sinon -> 0
+  -max_p valeur maximal pour la pondération
+  -min_p valeur minimal pour la pondération
+  -o graph orienté 1 -> sinon 0
+  -v voulez vous avoir des informations en temps réel sur votre terminal -> 0 sinon 1, 2 -> toutes les informations
+  -pf path avec avec nom du fichier à la fin ou nom du fichier dans lequel vous voulez la réponse (si il existe le contenu actuel sera écrasé sinon le fichier sera créé)
