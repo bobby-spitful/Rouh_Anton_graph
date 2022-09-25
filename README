@@ -12,3 +12,5 @@ les options sont de lancement du script sont:
   -o graph orienté 1 -> sinon 0
   -v voulez vous avoir des informations en temps réel sur votre terminal -> 0 sinon 1, 2 -> toutes les informations
   -pf path avec avec nom du fichier à la fin ou nom du fichier dans lequel vous voulez la réponse (si il existe le contenu actuel sera écrasé sinon le fichier sera créé)
+  
+  Rouh Anton du Bachelor cyber sécurité 2ième année
